@@ -6,7 +6,7 @@ When I am developing in Swift I found that I have to generate lot of structs as 
 python version: 3.8.2 
 
 
-# installation
+# Installation
 
-1. generate virtual env `py -m venv venv` [windows] or `python3 -m venv venv ` [unix]
-2. 
+1. Generate virtual env `py -m venv venv` [windows] or `python3 -m venv venv ` [unix]
+2. run it using python command or debugger in in your ide 
